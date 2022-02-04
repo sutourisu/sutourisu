@@ -1,4 +1,4 @@
-![Header](https://github.com/sutourisu/sutourisu/blob/main/space-keyboard.gif)
+![Header](https://github.com/sutourisu/sutourisu/blob/main/anime-keyboard.gif)
 
 
 ### Languages and Tools:
