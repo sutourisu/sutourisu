@@ -1,12 +1,14 @@
-![Header](https://github.com/sutourisu/sutourisu/blob/main/anime-keyboard.gif)
+<a href="https://www.codewars.com/users/sutourisu">
+  <img src="https://www.codewars.com/users/sutourisu/badges/large" alt="Codewars_Stats" />
+</a>
+<a href="https://leetcode.com/sutourisu/">
+  <img src="https://leetcode.card.workers.dev/sutourisu?theme=dark&font=baloo&extension=null" alt="LeetCode_Stats" />
+</a>
+<a href="https://codeforces.com/profile/sutourisu">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sutourisu" alt="Codeforces_Stats" />
+</a>
 
-
-### Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
-![Pycharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=pycharm&logoColor=47C5FB)
-![VSC](https://img.shields.io/badge/-VSC-090909?style=for-the-badge&logo=visualstudiocode&logoColor=47C5FB)
-
-
-### Follow Me:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sutourisu)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/sutourisu)
+| First tier | Experience | Second tier | Experience |
+| :--------: | :--------: | :---------: | :--------: |
+| <img style="width: 30px; height: 30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" /> | 1.5 years      | <img style="width: 30px; height: 30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Python" />     | 1 month      |
+| <img style="width: 30px; height: 30px" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="TypeScript" /> | 3 month    |  <img style="width: 30px; height: 30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" />    |    1 week   |
